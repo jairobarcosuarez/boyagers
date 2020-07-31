@@ -1,0 +1,23 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url('multimedia/azul.jpg');
+}
+
+image{
+    opacity: 0.1;
+}
+.picturecolor{
+    font-family: serif;
+    color: white;
+}
+.maintext{
+    font-size: 60px;
+}
+.secondtext{
+    font-size: 40px;
+}
+.tercearytext{
+    font-size: 25px;
+}
